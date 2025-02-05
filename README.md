@@ -1,6 +1,6 @@
 # CS50's Introduction to Programming with Python
 ## Problem Sets
-### [Week 0 - Functions, Variables]()
+### [Week 0 - Functions, Variables](https://github.com/AskaReign/CS50-Python-2022/tree/main/Week%200)
 ### [Week 1 - Conditionals]()
 ### [Week 2 - Loops]()
 ### [Week 3 - Exceptions]()
